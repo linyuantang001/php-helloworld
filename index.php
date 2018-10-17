@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World SB huangjingjie</p>'; ?> 
+ <?php echo '<p>Hello World redhat openshift</p>'; ?> 
  </body>
 </html>
